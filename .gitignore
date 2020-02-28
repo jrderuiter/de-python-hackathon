@@ -1,0 +1,11 @@
+# Python
+__pycache__
+.eggs
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints
+Untitled*.ipynb
+
+# Data
+outputs
